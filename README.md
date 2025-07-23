@@ -17,4 +17,3 @@ Built for real-world smart city analytics, behavior forecasting, and sustainabil
 
 🔧 Easily extendable, interpretable, and portfolio-ready for ML and data science roles in AI, urban tech, and smart systems.
 
-Let me know if you want a separate README.md version or tags for LinkedIn hashtags like #MachineLearning, #SmartCities, #DataScience, etc. ✅
